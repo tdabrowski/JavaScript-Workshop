@@ -15,5 +15,5 @@ ul {
 .nav>ul>li>ul {
     display: none;
     position: absolute;
-    width: 300px;
+    width: 100px;
 }
