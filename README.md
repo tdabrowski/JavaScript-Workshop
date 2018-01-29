@@ -8,3 +8,4 @@ Samples of simple scripting in JavaScript with only basic css and html:
 6. ToDoList - basic list with tasks to do
 7. jQuery QA - simple question and answers (click question to view answer)
 8. jQuery Tabs - tabs with additional text (click specific tab to view text for this tab)
+9. jQuery ProgressBar - progress bar animation with chosen settings
